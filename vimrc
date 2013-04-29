@@ -32,6 +32,9 @@
  filetype plugin indent on     " required!
  filetype plugin on
 
+ set nobackup
+ set noswapfile
+
  set encoding=utf-8
  set hidden
  set number
